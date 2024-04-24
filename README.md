@@ -3,7 +3,7 @@
 ### 안녕하세요 제 깃허브에 오신걸 환영합니다! 👋
 
 ### 개발 환경
-https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+![Windows]https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 
 ### 사용하는 기술
 [![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
@@ -14,10 +14,10 @@ https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&log
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
-https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
-https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
-https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white
+![C++]https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+![C#]https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+![Unity]https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white
+![unrealengine]https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KR-EGOIST)](https://github.com/anuraghazra/github-readme-stats)

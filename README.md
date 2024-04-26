@@ -31,7 +31,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
-[![](https://github.com/libtv/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
+[![](https://github.com/KR-EGOIST/github-programmers-rank/blob/master/lib/result.svg)](https://github.com/libtv/github-programmers-rank)
       
 <!--
 **KR-EGOIST/KR-EGOIST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

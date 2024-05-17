@@ -18,7 +18,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![TypesSript](https://img.shields.io/badge/typescript-#3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-#3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 ### 게임 클라이언트 기술

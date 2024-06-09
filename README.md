@@ -19,6 +19,7 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)](https://firebase.google.com/)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![prisma](https://img.shields.io/badge/prisma-#2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 
 ### 게임 클라이언트 기술

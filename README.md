@@ -1,3 +1,5 @@
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 ### 안녕하세요 제 깃허브에 오신걸 환영합니다! 👋
@@ -41,6 +43,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhso5041)](https://solved.ac/jhso5041/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
+</div>
       
 <!--
 **KR-EGOIST/KR-EGOIST** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
